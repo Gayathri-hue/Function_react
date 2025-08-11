@@ -22,7 +22,7 @@ function Problem3() {
       <div style={{ display: "flex", justifyContent: "center", padding: 40 }}>
         <Card style={{ width: 400, textAlign: "center" }} bordered>
           <Title level={3}>
-            <NumberOutlined /> Odd Number Series (Problem 3)
+            <NumberOutlined /> Odd Number Series
           </Title>
 
           <InputNumber
